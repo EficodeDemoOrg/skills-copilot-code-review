@@ -654,6 +654,14 @@ footer {
   font-size: 1rem;
 }
 
+.announcement-banner {
+  background-color: rgb(84, 146, 84);
+  color: white;
+  text-align: center;
+  padding: 15px;
+  font-weight: bold;
+}
+
 #logout-button {
   padding: 3px 10px;
   background-color: rgba(255, 255, 255, 0.2);
